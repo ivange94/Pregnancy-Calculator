@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pregnancy Calculator</string>
+    <string name="about_title">About</string>
+    <string name="about_text">About text</string>
+    <string name="howto_title">How To</string>
+    <string name="howto_text">How To Text</string>
+    <string name="ok_label">OK</string>
+</resources>
